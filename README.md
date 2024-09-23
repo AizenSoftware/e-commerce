@@ -1,7 +1,9 @@
 E-Commerce Website
+
 This is a work-in-progress e-commerce platform built using modern web development technologies. The primary aim is to create a fully functional e-commerce application where users can browse products, register, log in, and make purchases.
 
 Technologies Used
+
 React: For building the front-end user interface.
 Tailwind CSS: For styling the components in a fast and responsive manner.
 RTK Query: For managing API calls and state in a more efficient way.
