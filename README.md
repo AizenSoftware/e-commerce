@@ -5,11 +5,17 @@ This is a work-in-progress e-commerce platform built using modern web developmen
 Technologies Used
 
 React: For building the front-end user interface.
+
 Tailwind CSS: For styling the components in a fast and responsive manner.
+
 RTK Query: For managing API calls and state in a more efficient way.
+
 Node.js: As the back-end runtime environment.
+
 Express.js: For building the back-end server and handling routes.
+
 Prisma: For interacting with the database in an elegant and type-safe manner.
+
 Current Features
 Home Page: Products are fetched from the database and displayed on the home page.
 User Authentication: Basic login and registration functionality using Node.js and Express. Users can create accounts, log in, and manage their sessions.
